@@ -1,0 +1,39 @@
+{
+    "": [
+        "readme.md", 
+        "ccpnotes", 
+        "docs"
+    ], 
+    "__positions": {
+        "docs/machine/index.md": 3001002, 
+        "docs/machine": 3001, 
+        "docs/machine/1.md": 3001001, 
+        "docs": 3, 
+        "ccpnotes": 2, 
+        "docs/readme.md": 3004, 
+        "readme.md": 1, 
+        "docs/cpu": 3002, 
+        "docs/digit": 3003
+    }, 
+    "docs/machine": [
+        "1.md", 
+        "index.md"
+    ], 
+    "__raw_positions": {
+        "docs/machine/index.md": 2, 
+        "docs/machine": 1, 
+        "docs/readme.md": 4, 
+        "docs": 3, 
+        "ccpnotes": 2, 
+        "docs/machine/1.md": 1, 
+        "docs/cpu": 2, 
+        "readme.md": 1, 
+        "docs/digit": 3
+    }, 
+    "docs": [
+        "machine", 
+        "cpu", 
+        "digit", 
+        "readme.md"
+    ]
+}
