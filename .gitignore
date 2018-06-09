@@ -63,3 +63,4 @@ typings/
 .markeditor/
 .Archive/
 .DS_Store
+configs/sorts.json
